@@ -5,7 +5,7 @@
 Hello, my name is Jaewon Ahn.
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon&layout=compact)
 
 <p align="center">
   <strong>💻 My Language</strong>
