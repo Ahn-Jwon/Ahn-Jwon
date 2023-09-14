@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Java-F05138?style=for-the-badge&logo=Java&logoColor=white">
 
 <!--
 **Ahn-Jwon/Ahn-Jwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
