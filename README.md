@@ -1,5 +1,8 @@
 
-AHN JAE WON
+<div align="center">
+    <h1 style="font-size: 36px; font-weight: bold;">AHN JAE WON</h1>
+    <p style="font-size: 18px; color: #555;">Profile</p>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon&layout=compact)
 
