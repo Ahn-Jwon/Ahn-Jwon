@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon)](https://github.com/Ahn-Jwon/github-readme-stats)
+
 
 <p align="center">
 Hello, my name is Jaewon Ahn.
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <p align="center">
   <strong>💻 My Language</strong>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
