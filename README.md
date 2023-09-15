@@ -3,6 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
 <div align="center">
+Let's look at it from a new perspective.<br>
+新しい視点で見つめます。
+</div>
+
+
+<div align="center">
   <h4>APP 개발 🤚<br>APP development 🤚<br>APP開発。🤚 </h4>
 </div>
 
