@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhn-Jwon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <head>
     AHN JAE WON 
 </head>
@@ -5,7 +6,9 @@
 
 <div align="center">
     <h1 style="font-size: 36px; font-weight: bold;">AHN JAE WON</h1>
+    
 </div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon&layout=compact)
 
