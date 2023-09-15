@@ -3,12 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=egg)
 
 <div align="center">
-<h2>Let's look at it from a new perspective.<br>
-新しい視点で見つめます。👀</h2>
+<h6>Let's look at it from a new perspective.<br>
+新しい視点で見つめます。👀</h6>
 </div>
 
 <div align="center">
-  <h4>APP 개발 🤚<br>APP development 🤚<br>APP開発。🤚 </h4>
+  <h6>APP 개발 🤚<br>APP development 🤚<br>APP開発。🤚 </h6>
 </div><br>
 
 <p align="center">
