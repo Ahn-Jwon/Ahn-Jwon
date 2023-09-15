@@ -2,13 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
-<div align="center">
+<div align="left">
 Let's look at it from a new perspective.<br>
 新しい視点で見つめます。
 </div>
 
 
-<div align="center">
+<div align="left">
   <h4>APP 개발 🤚<br>APP development 🤚<br>APP開発。🤚 </h4>
 </div>
 
