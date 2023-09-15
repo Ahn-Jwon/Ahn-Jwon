@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=egg)
 
 <div align="center">
-Let's look at it from a new perspective.<br>
-新しい視点で見つめます。
+<h2>Let's look at it from a new perspective.<br>
+新しい視点で見つめます。👀</h2>
 </div>
 
 
