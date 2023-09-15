@@ -9,8 +9,7 @@
 
 <div align="center">
   <h4>APP 개발 🤚<br>APP development 🤚<br>APP開発。🤚 </h4>
-</div>
-<hr>
+</div><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahn-Jwon&show_icons=true&theme=radical" alt="GitHub Stats">
