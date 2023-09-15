@@ -3,8 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=soft)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Jwon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahn-Jwon&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon" alt="Top Languages">
+</p>
+
+
 
 <hr>
 
