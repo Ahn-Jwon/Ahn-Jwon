@@ -7,18 +7,15 @@
 新しい視点で見つめます。👀</h2>
 </div>
 
-
 <div align="center">
   <h4>APP 개발 🤚<br>APP development 🤚<br>APP開発。🤚 </h4>
 </div>
 <hr>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahn-Jwon&show_icons=true&theme=radical" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon" alt="Top Languages">
 </p>
-
-
-
 <hr>
 
 <div align="center">
