@@ -3,40 +3,31 @@
     AHN JAE WON 
 </head>
 
-
-<div align="center">
-    <h1 style="font-size: 36px; font-weight: bold;">AHN JAE WON</h1>
-    
-</div>
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon&layout=compact)
 
-<p align="left">
-  <strong>My Language</strong>  
-</p>
-<p align="left">
+<div align="center">
+    <h1 style="font-size: 36px; font-weight: bold;">🔧SKILL🔧</h1>
+    
+</div>
+<p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </p>
-<hr>
-<p align="left">
-  <strong>Database</strong>
-</p>
-<p align="left">
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
 
-<p align="left">
-  <strong>Tools</strong>  
-</p>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
 </p>
 
 
