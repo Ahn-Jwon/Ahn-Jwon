@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft)
 
 <div align="center">
-  <h4>APP development.<br>APP開発。</h4>
+  <h4>APP development 🤚<br>APP開発。🤚 </h4>
 </div>
 
 <p align="center">
