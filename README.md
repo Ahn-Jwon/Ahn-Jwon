@@ -2,11 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Jwon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
     <h1 style="font-size: 36px; font-weight: bold;">🔧SKILL🔧</h1>
-    
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
