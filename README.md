@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon)
 
 <div align="center">
-    <h1 style="font-size: 36px; font-weight: bold;">🔧SKILL🔧</h1>
+    <h3 style="font-size: 36px; font-weight: bold;">🔧SKILL🔧</h3>
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-    <h1 style="font-size: 36px; font-weight: bold;">🧰Database🧰</h1>
+    <h3 style="font-size: 36px; font-weight: bold;">🧰Database🧰</h3>
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -27,7 +27,7 @@
 </p>
 
 <div align="center">
-    <h1 style="font-size: 36px; font-weight: bold;">⚙️Tools⚙️</h1>
+    <h3 style="font-size: 36px; font-weight: bold;">⚙️Tools⚙️</h3>
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
