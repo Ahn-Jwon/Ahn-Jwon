@@ -2,9 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft)
 
-<div>
-<h4>I'm Ahn Jaewon from APP development.<br>
-APP開発のアン·ジェウォンです。</h4>
+<div align="center">
+  <h4>APP development.<br>APP開発。</h4>
 </div>
 
 <p align="center">
