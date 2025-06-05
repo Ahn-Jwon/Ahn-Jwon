@@ -16,9 +16,7 @@
 </p>
 <hr>
 
-[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used.svg?username=Ahn-Jwon&theme=tokyonight)](https://github-profile-summary-cards.vercel.app/api/cards/most-used.svg?username=Ahn-Jwon&theme=github_dark
-)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=Ahn-Jwon&theme=tokyonight)
+
 
 
 
