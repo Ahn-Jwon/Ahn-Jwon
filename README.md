@@ -17,21 +17,7 @@
 - 🧰 Tools: `Xcode`, `Firebase`, `Node.js`, `PostgreSQL`, `Figma`
 - 🧪 Testing: `XCTest`, `Postman`, `Jest`
 - ☁️ Hosting: `Firebase Hosting`, `Vercel`, `Render`
-- 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
-
-
-
-
-
 
 
 <!--
