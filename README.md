@@ -7,21 +7,15 @@
 <br/>
 
 <p align="center">
-  <b>iOS Developer | Swift & SwiftUI Specialist | Firebase & Realtime UX Enthusiast</b><br/>
-  Building full-stack apps with clean code and practical design.
+I'm an iOS developer with a strong passion for building mobile experiences that are fast, intuitive, and scalable.
+I specialize in **Swift** and **SwiftUI**, and enjoy crafting smooth user interactions powered by **Firebase** and realtime data handling.
+Beyond iOS, I explore cross-platform development with **Flutter (Dart)**, and build web applications using **React**, **Next.js**, and **TypeScript**.
+My backend experience includes **Node.js**, **Express**, and **Vapor (Swift)**, and I love building end-to-end features — from API to UI.
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm an iOS developer with a strong passion for building mobile experiences that are fast, intuitive, and scalable.
-
-I specialize in **Swift** and **SwiftUI**, and enjoy crafting smooth user interactions powered by **Firebase** and realtime data handling.
-
-Beyond iOS, I explore cross-platform development with **Flutter (Dart)**, and build web applications using **React**, **Next.js**, and **TypeScript**.
-
-My backend experience includes **Node.js**, **Express**, and **Vapor (Swift)**, and I love building end-to-end features — from API to UI.
 
 ```js
 const developer = "Ahn Jaewon 🚀";
