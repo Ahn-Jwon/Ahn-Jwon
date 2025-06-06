@@ -25,4 +25,4 @@ My backend experience includes Node.js, Express, and Vapor (Swift), and I love b
 - 🧰 Tools: `Xcode`, `Firebase`, `PostgreSQL`, `Figma`
   
 ---
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jwon&layout=compact)
