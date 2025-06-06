@@ -13,21 +13,11 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: `Swift`, `Kotlin (for Android Maintenance)`, `JavaScript`, `TypeScript`
+- 💻 Languages: `Swift`, `Kotlin (for Android Maintenance)`, `TypeScript`
 - 🧰 Tools: `Xcode`, `Firebase`, `Node.js`, `PostgreSQL`, `Figma`
 - 🧪 Testing: `XCTest`, `Postman`, `Jest`
 - ☁️ Hosting: `Firebase Hosting`, `Vercel`, `Render`
-
----
-
-### 📱 Recent Projects
-
-| Project | Description |
-|--------|-------------|
-| 🐾 PetFinder | A community app to help find lost pets. Uses Firebase Realtime DB & Chat |
-| 🛍️ SmartShop | iOS shopping app with secure login, product browsing, and payment |
-| 🤝 MatchMate | Tinder-style matching app for local dog walkers |
-
+- 
 ---
 
 ### 📈 GitHub Stats
