@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahn Jaewon 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/ahn-jaewon-dev.png" width="300" alt="Ahn Jaewon Developer Illustration" />
+  <img src="https://raw.githubusercontent.com/Ahn-Jwon/Ahn-Jwon/main/ahn-jaewon-dev.png" width="300" alt="Ahn Jaewon Developer Illustration" />
 </p>
 
 <p align="center">
