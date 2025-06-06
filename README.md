@@ -18,12 +18,10 @@ My backend experience includes Node.js, Express, and Vapor (Swift), and I love b
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: `Swift`, `TypeScript`, `JavaScript`, `Kotlin (for Android Maintenance)`, `Dart`
-- 🌐 Web & App Frameworks: `React`, `Next.js`, `Flutter`, `SwiftUI`
+- 📱 Mobile Platforms: `iOS (Swift, SwiftUI)`, `Android (Kotlin, Jetpack Compose)`
+- 💻 Languages: `Swift`, `TypeScript`,`JavaScript`, `Kotlin`, `Dart`
+- 🌐 Web & App Frameworks: `React`, `Next.js`, `Flutter`, `SwiftUI`, `Jetpack Compose`
 - 🖥️ Server & Backend: `Node.js`, `Express`, `Vapor (Swift)`, `Firebase`
 - 🧰 Tools: `Xcode`, `Firebase`, `PostgreSQL`, `Figma`
-- 🧪 Testing: `XCTest`, `Postman`, `Jest`
-- ☁️ Hosting: `Firebase Hosting`, `Vercel`, `Render`
-
-
+  
 ---
