@@ -2,17 +2,15 @@
 
 <table>
   <tr>
-    <td width="250">
+    <td width="280">
       <img src="https://raw.githubusercontent.com/Ahn-Jwon/Ahn-Jwon/main/ahn-jaewon-dev.png" width="100%" />
     </td>
     <td>
-      <h4>
-        I'm an iOS developer with a strong passion for building mobile experiences that are fast, intuitive, and scalable.  
-        I specialize in Swift and SwiftUI, and I enjoy crafting smooth user interactions powered by Firebase and realtime data handling.  
-        Beyond iOS, I explore cross-platform development with Flutter (Dart), and build web applications using React, Next.js, and TypeScript.
-      </h4>
       <p>
-        My backend experience includes Node.js, Express, and Vapor (Swift), and I love building end-to-end features — from API to UI.
+        <strong>I'm an iOS developer</strong> with a strong passion for building mobile experiences that are fast, intuitive, and scalable.<br><br>
+        I specialize in <strong>Swift</strong> and <strong>SwiftUI</strong>, and I enjoy crafting smooth user interactions powered by <strong>Firebase</strong> and realtime data handling.<br><br>
+        Beyond iOS, I explore cross-platform development with <strong>Flutter (Dart)</strong>, and build web applications using <strong>React, Next.js, and TypeScript</strong>.<br><br>
+        My backend experience includes <strong>Node.js, Express, and Vapor (Swift)</strong>, and I love building end-to-end features — from API to UI.
       </p>
     </td>
   </tr>
@@ -28,7 +26,6 @@
 - 🧰 Tools: `Xcode`, `Firebase`, `PostgreSQL`, `Figma`
 - 🧪 Testing: `XCTest`, `Postman`, `Jest`
 - ☁️ Hosting: `Firebase Hosting`, `Vercel`, `Render`
-
 
 <!--
 **Ahn-Jwon/Ahn-Jwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
