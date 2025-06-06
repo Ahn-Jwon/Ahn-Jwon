@@ -13,10 +13,13 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: `Swift`, `Kotlin (for Android Maintenance)`, `TypeScript`
-- 🧰 Tools: `Xcode`, `Firebase`, `Node.js`, `PostgreSQL`, `Figma`
+- 💻 Languages: `Swift`, `TypeScript`, `Kotlin (for Android Maintenance)`, `Dart`
+- 🌐 Web & App Frameworks: `React`, `Next.js`, `Flutter`, `SwiftUI`
+- 🖥️ Server & Backend: `Node.js`, `Express`, `Vapor (Swift)`
+- 🧰 Tools: `Xcode`, `Firebase`, `PostgreSQL`, `Figma`
 - 🧪 Testing: `XCTest`, `Postman`, `Jest`
 - ☁️ Hosting: `Firebase Hosting`, `Vercel`, `Render`
+
 ---
 
 
